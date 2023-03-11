@@ -51,7 +51,7 @@ const perPersonTotal=total/numberOfPeople
 
 // ** Splits the bill between more people **
 const increasePeople = () => {
-  // increment the amount of people
+  // increment the amount of people blah
   numberOfPeople+=1
 
   // update the DOM with the new number of people
