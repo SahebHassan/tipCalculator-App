@@ -79,3 +79,6 @@ if(numberOfPeople<=1){
   // calculate the bill based on the new number of people
 calculateBill()
 }
+
+
+// thats it for the tipCalculator
